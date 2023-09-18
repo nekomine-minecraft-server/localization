@@ -1,0 +1,14 @@
+{
+  "SKIN_MODEL": {
+    "ru": "Игровой скин",
+    "en": "Game skin"
+  },
+  "SKIN_MODEL_SIGNATURE": {
+    "ru": "Сигнатура: ",
+    "en": "Signature: "
+  },
+  "SKIN_MODEL_VALUE": {
+    "ru": "Значение: ",
+    "en": "Value: "
+  }
+}
